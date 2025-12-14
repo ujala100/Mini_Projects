@@ -1,2 +1,2 @@
 # Capstone_project
-MY learning and exploring of concepts.Mking projects of it
+MY learning and exploring of concepts.Making projects of it
